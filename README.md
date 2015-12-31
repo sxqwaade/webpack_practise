@@ -1,8 +1,8 @@
-# INSTALL
+** INSTALL **
   ```bash
   npm install
   ```
-#  run
+** run **
   ```bash
   npm start
   ```
