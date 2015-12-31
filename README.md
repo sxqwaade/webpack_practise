@@ -1,8 +1,11 @@
-** INSTALL **
-  ```bash
-  npm install
-  ```
-** run **
-  ```bash
-  npm start
-  ```
+# webpack_practise
+
+
+**install**
+```bash
+npm install
+```
+**run**
+```bash
+npm start
+```
